@@ -1,5 +1,5 @@
 import { ToadScheduler, AsyncTask, CronJob } from 'toad-scheduler'
-import fastq, { promise } from 'fastq'
+import { promise } from 'fastq'
 import { setTimeout as sleep } from 'node:timers/promises'
 
 const scheduler = new ToadScheduler()

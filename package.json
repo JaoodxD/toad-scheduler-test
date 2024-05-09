@@ -1,0 +1,16 @@
+{
+  "name": "toad-scheduler-test",
+  "version": "1.0.0",
+  "description": "test repo for toad-scheduler npm package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "toad-scheduler": "^3.0.1"
+  }
+}
